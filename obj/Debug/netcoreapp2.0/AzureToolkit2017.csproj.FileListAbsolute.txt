@@ -1,0 +1,10 @@
+/Users/sd150008/Documents/MicrosoftCourse/AzureToolkit2017/bin/Debug/netcoreapp2.0/AzureToolkit2017.deps.json
+/Users/sd150008/Documents/MicrosoftCourse/AzureToolkit2017/bin/Debug/netcoreapp2.0/AzureToolkit2017.runtimeconfig.json
+/Users/sd150008/Documents/MicrosoftCourse/AzureToolkit2017/bin/Debug/netcoreapp2.0/AzureToolkit2017.runtimeconfig.dev.json
+/Users/sd150008/Documents/MicrosoftCourse/AzureToolkit2017/bin/Debug/netcoreapp2.0/AzureToolkit2017.dll
+/Users/sd150008/Documents/MicrosoftCourse/AzureToolkit2017/bin/Debug/netcoreapp2.0/AzureToolkit2017.pdb
+/Users/sd150008/Documents/MicrosoftCourse/AzureToolkit2017/obj/Debug/netcoreapp2.0/AzureToolkit2017.csproj.CoreCompileInputs.cache
+/Users/sd150008/Documents/MicrosoftCourse/AzureToolkit2017/obj/Debug/netcoreapp2.0/AzureToolkit2017.AssemblyInfoInputs.cache
+/Users/sd150008/Documents/MicrosoftCourse/AzureToolkit2017/obj/Debug/netcoreapp2.0/AzureToolkit2017.AssemblyInfo.cs
+/Users/sd150008/Documents/MicrosoftCourse/AzureToolkit2017/obj/Debug/netcoreapp2.0/AzureToolkit2017.dll
+/Users/sd150008/Documents/MicrosoftCourse/AzureToolkit2017/obj/Debug/netcoreapp2.0/AzureToolkit2017.pdb
