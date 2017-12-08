@@ -8,7 +8,7 @@
  
  @Injectable()
  export class CognitiveService {
-     bingSearchAPIKey = '';
+     bingSearchAPIKey = '0f68ce39b57342959a955f0b3f2587e5';
      constructor(private http: AzureHttpClient) { }
      searchImages(searchTerm: string): Observable<BingSearchResponse> {
          return this.http.get('https://api.cognitive.microsoft.com/bing/v5.0/images/search?q=${searchTerm}', this.bingSearchAPIKey)
